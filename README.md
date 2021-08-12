@@ -5,7 +5,7 @@ mas sempre com energia para começar novos projetos e aprender novas coisas.
 
 - Graduando em Ciência da Computação na UNIFG
 - Técnico em Informática para Internet pelo IFPE em 2021
-- Pós intercambista (inglês intermediário/bom vocabulário técnico)
+- Pós intercambista (inglês intermediário/vocabulário técnico)
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
@@ -18,7 +18,7 @@ class Caio extends Desenvolvedor {
  
  let título = "ALGUMAS HABILIDADES"
  
- this.habilidades = ["NodeJS", "ReactJS", "JavaScript", "HTML", "CSS", "GIT", 
+ this.conhecimentos = ["NodeJS", "ReactJS", "JavaScript", "HTML", "CSS", "GIT", 
    "SQL", "MongoDB", "Spring", "Shell", "Python", "TypeScript", "Firebase"]
 }
 ```
