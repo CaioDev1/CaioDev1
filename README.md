@@ -1,11 +1,11 @@
 ### Ôpa 👋
 
-Gosto de desenvolver projetos relacionados a desenvolvimento WEB, focando sempre no fullstack, adoro JavaScript e Java, não muito apreciador de café
-mas sempre com energia para começar novos projetos e aprender novas coisas.
+Amante da área de desenvolvimento WEB, focando sempre no fullstack, domínio na stack NodeJS e Typescript, de amizado com o Java, não muito apreciador de café mas sempre com energia para começar novos projetos e aprender novas coisas.
 
 - Graduando em Ciência da Computação na UNIFG
 - Técnico em Informática para Internet pelo IFPE em 2021
 - Pós intercambista (inglês intermediário/vocabulário técnico)
+- Certificado Microsoft Azure AZ-900
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
@@ -16,9 +16,9 @@ class Caio extends Desenvolvedor {
  this.nome = "Caio Cardoso"
  this.area = "Desenvolvimento Web"
  
- let título = "ALGUMAS HABILIDADES"
+ // -- "ALGUMAS HABILIDADES" --
  
- this.conhecimentos = ["NodeJS", "ReactJS", "JavaScript", "HTML", "CSS", "GIT", 
+ this.conhecimentos = ["NodeJS", "ReactJS", "Angular", "ORM", "Azure", "JavaScript", "HTML", "CSS", "GIT", 
    "SQL", "MongoDB", "Spring", "Shell", "Python", "TypeScript", "Firebase"]
 }
 ```
@@ -51,7 +51,6 @@ class Caio extends Desenvolvedor {
 </a>
 <br>
 
-### Rede Sociais!
+### Rede Sociais
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itsme_caio)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiodev1/)
