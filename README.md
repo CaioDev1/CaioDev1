@@ -1,29 +1,36 @@
-### Ôpa 👋
+### Hi There! 👋
 
-Amante da área de desenvolvimento WEB, focando sempre no fullstack, domínio na stack NodeJS e Typescript, de amizado com o Java, não muito apreciador de café mas sempre com energia para começar novos projetos e aprender novas coisas.
+Lover of web development area
 
-- Graduando em Ciência da Computação na UNIFG
-- Técnico em Informática para Internet pelo IFPE em 2021
-- Pós intercambista (inglês intermediário/vocabulário técnico)
-- Certificado Microsoft Azure AZ-900
+Domain in the NodeJS and Typescript stack
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+In a friendship with Java
+
+Not much fan of coffee but always with energy to start new projects and learn new things.
+
+* Graduating in Computer Science at UNIFG
+* Technician in Computer Science for the Internet by IFPE in 2021
+* English exchange student in Australia - 2019 (intermediate English/technical vocabulary)
+* Microsoft Azure AZ-900 certified
+
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```javascript
-class Caio extends Desenvolvedor {
- this.nome = "Caio Cardoso"
- this.area = "Desenvolvimento Web"
+class Caio extends Developer {
+ this.name = "Caio Cardoso"
+ this.age = 20
+ this.area = "Web Development"
  
- // -- "ALGUMAS HABILIDADES" --
+ // -- "SOME SKILLS" --
  
- this.conhecimentos = ["NodeJS", "ReactJS", "Angular", "ORM", "Azure", "JavaScript", "HTML", "CSS", "GIT", 
-   "SQL", "MongoDB", "Spring", "Shell", "Python", "TypeScript", "Firebase"]
+ this.skills = ["NodeJS", "ReactJS", "Angular", "ORM", "Azure", "JavaScript", "HTML", "CSS", "GIT", 
+   "SQL", "MongoDB", "Spring", "Shell", "TypeScript", "Firebase"]
 }
 ```
 
-## **Linguagens e Ferramentas:**  
+## **Languages and Tools:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -40,7 +47,7 @@ class Caio extends Desenvolvedor {
 
 
 
-## **GitHub Estatísticas**
+## **GitHub Stats**
 
 <a href="https://github.com/CaioDev1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioDev1&theme=dracula&hide_langs_below=1" />
@@ -51,6 +58,6 @@ class Caio extends Desenvolvedor {
 </a>
 <br>
 
-### Rede Sociais
+### Learn more about me on LinkedIn!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiodev1/)
