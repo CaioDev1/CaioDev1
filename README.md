@@ -19,13 +19,13 @@ Not much fan of coffee but always with energy to start new projects and learn ne
 
 ```javascript
 class Caio extends Developer {
- this.name = "Caio Cardoso"
- this.age = 20
- this.area = "Web Development"
+ name = "Caio Cardoso"
+ age = 20
+ area = "Web Development"
  
  // -- "SOME SKILLS" --
  
- this.skills = ["NodeJS", "ReactJS", "Angular", "ORM", "Azure", "JavaScript", "HTML", "CSS", "GIT", 
+ skills = ["NodeJS", "ReactJS", "Angular", "ORM", "Azure", "JavaScript", "HTML", "CSS", "GIT", 
    "SQL", "MongoDB", "Spring", "Shell", "TypeScript", "Firebase"]
 }
 ```
